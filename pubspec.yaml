@@ -1,7 +1,7 @@
 name: web_mobile_navbar
 description: "Navbar that responsive and flexible design"
 version: 0.0.1
-homepage:
+homepage: https://github.com/claviertech/web_mobile_navbar.git
 
 environment:
   sdk: ">=3.4.0 <4.0.0"
